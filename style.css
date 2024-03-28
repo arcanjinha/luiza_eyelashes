@@ -98,7 +98,7 @@ button img {
 }
 
 a {
-  color: white; /* Cor dos links corrigida */
+  color: black; /* Cor dos links corrigida */
   -webkit-text-stroke: 0.2px #000000;
   display: grid;
   text-shadow: 0 0 20px rgba(0, 0, 0, 1);
